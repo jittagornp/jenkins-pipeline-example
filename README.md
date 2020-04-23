@@ -1,3 +1,3 @@
 # Jenkins Pipeline Example 
 
-TODO
+1. [การกำหนด Stage](./1_Jenkinsfile)
